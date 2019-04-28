@@ -1,0 +1,24 @@
+
+.navbar {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    margin-bottom: 10px;
+    display: block;
+}
+.blogs {
+    width: 100%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.navLinks {
+    width: 100%;
+    margin-top: 100px;
+}
+img {
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+}
